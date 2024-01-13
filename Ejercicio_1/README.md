@@ -1,7 +1,9 @@
 # Propiedades de un Contenedor 📦
 
-El reto es este: 
-![el reto](Ejercicio_1/Images/reto.jpg)
+**El reto es este:** 
+<p align="center">
+  <img style="width:500px; heigh:500px" src="https://github.com/LizethPatino/curso-grid-platzi/blob/main/Ejercicio_1/Images/reto.jpg">
+</p>
 
 # Respecto a Grid: 
 Un **resumen** de lo que use para este ejercicio: 
@@ -23,3 +25,4 @@ Cambia el orden de llenado de filas a columnas
 
  ✴️ **Nota**: esta propiedad por defecto viene con flow pero se le puede pasar el valor 
  **Column** y listo.
+
