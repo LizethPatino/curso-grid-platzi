@@ -1,6 +1,6 @@
 # curso-grid-platzi 🖌️
 
-Notas y ejercicios interesantes del curso de platzi 😸
+### Notas y ejercicios interesantes del curso de platzi 😸
 
 Links de los ejercicios:
 
