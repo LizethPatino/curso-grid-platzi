@@ -1,2 +1,2 @@
 # curso-grid-platzi
-Practica curso grid platzi
+Ejercicio 1: 
