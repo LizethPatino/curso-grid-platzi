@@ -1,4 +1,4 @@
-# curso-grid-platzi
+# curso-grid-platzi 🖌️
 
 Notas y ejercicios interesantes del curso de platzi 😸
 
